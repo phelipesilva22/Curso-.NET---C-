@@ -1,0 +1,5 @@
+/home/phelipe-bruione/Desktop/Curso.NET--/01.EstruturadoPrograma/obj/Debug/net9.0/01.EstruturadoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+/home/phelipe-bruione/Desktop/Curso.NET--/01.EstruturadoPrograma/obj/Debug/net9.0/01.EstruturadoPrograma.AssemblyInfoInputs.cache
+/home/phelipe-bruione/Desktop/Curso.NET--/01.EstruturadoPrograma/obj/Debug/net9.0/01.EstruturadoPrograma.AssemblyInfo.cs
+/home/phelipe-bruione/Desktop/Curso.NET--/01.EstruturadoPrograma/obj/Debug/net9.0/01.EstruturadoPrograma.csproj.CoreCompileInputs.cache
+/home/phelipe-bruione/Desktop/Curso.NET--/01.EstruturadoPrograma/obj/Debug/net9.0/01.EstruturadoPrograma.sourcelink.json
