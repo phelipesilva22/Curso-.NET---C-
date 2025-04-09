@@ -1,0 +1,15 @@
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/bin/Debug/net9.0/DIO
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/bin/Debug/net9.0/DIO.deps.json
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/bin/Debug/net9.0/DIO.runtimeconfig.json
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/bin/Debug/net9.0/DIO.dll
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/bin/Debug/net9.0/DIO.pdb
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/DIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/DIO.AssemblyInfoInputs.cache
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/DIO.AssemblyInfo.cs
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/DIO.csproj.CoreCompileInputs.cache
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/DIO.sourcelink.json
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/DIO.dll
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/refint/DIO.dll
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/DIO.pdb
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/DIO.genruntimeconfig.cache
+/home/phelipe-bruione/Desktop/Curso.NET--/DIO/obj/Debug/net9.0/ref/DIO.dll
