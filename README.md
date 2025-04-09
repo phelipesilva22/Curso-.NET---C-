@@ -1,4 +1,3 @@
-# Curso-.NET---C-
 # 📚 Curso de .NET com C# – DIO
 
 Este repositório contém anotações, exercícios, projetos e demais materiais desenvolvidos durante o curso **Primeiros Passos com .NET** ministrado por **Gabriel Faraday** na plataforma [Digital Innovation One (DIO)](https://seprosp.digitalinnovation.one/course/primeiros-passos-com-net-c/learning/21dba689-4655-48a6-b2b6-89a353220b16/). O objetivo é consolidar o aprendizado sobre os fundamentos da plataforma .NET utilizando a linguagem C#.
